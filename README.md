@@ -72,6 +72,7 @@ The edge file consist of the following major coloums :
 ## Phase 1(Before Mid-Sem)
 
 - Step by Step Working
+![](images/working_module.PNG)
 
 - Possible Demonstraion
 
