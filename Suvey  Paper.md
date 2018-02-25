@@ -43,7 +43,17 @@ but with a vast imbalance in fraudulent to legitimate transactions misclassifica
 		- All Possible Classification
 			- Short Summanry
 		- How classificaion work with technique ?
+		
 - Conclusion
 	- Build tables
 		- Based on features classify the algorithms.
 	- Based on the table colusions are being made.
+
+- References
+1. APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+   TECHNIQUES TO COMBATING CYBER CRIMES: A REVIEW
+   Selma Dilek1, Hüseyin Çakır2 and Mustafa Aydın3
+2. A Comprehensive Survey of Data Mining-based Fraud Detection Research
+   CLIFTON PHUA1*, VINCENT LEE1, KATE SMITH1 & ROSS GAYLER2
+3. Intelligent Financial Fraud Detection Practices: An Investigation
+   Jarrod West1, Maumita Bhattacharya and Rafiqul Islam
