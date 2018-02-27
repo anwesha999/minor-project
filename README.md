@@ -50,6 +50,7 @@ Cypher Query Language
 - Time line(Gantt Chart)
 
 - What are the possible challanges to achive the objective.
+Applying different types of attribute in clustering analysis such as interval-scaled variables, binary variables, nominal, ordinal and ratio variables to the variables of mixed type.
 
 - Contribution of the group members.
 
